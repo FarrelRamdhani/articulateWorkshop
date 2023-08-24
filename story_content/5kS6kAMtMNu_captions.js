@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"0:00:00.000,0:00:05.600%0AYou\u0027re%20invited%20to%20read%20about%20the%20two%20follow-up%20workshops,%20which%20will%20come%20in%20weeks%20four%20and%0A%0A0:00:05.600,0:00:07.400%0Aten%20of%20the%20fall%20term."}')

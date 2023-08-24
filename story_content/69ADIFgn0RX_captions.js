@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"0:00:00.000,0:00:05.000%0AThe%20first%20task%20presents%20you%20with%20five%20different%20practices%20associated%20with%20writing.%0A%0A0:00:05.000,0:00:14.000%0ASo%20your%20job%20is%20to%20classify%20them%20as%20tending%20more%20towards%20pre-drafting%20or%20draft%20writing."}')

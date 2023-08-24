@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"0:00:00.000,0:00:07.000%0ALet\u0027s%20now%20extend%20the%20verb%20types%20in%20the%20malaria%20text%20by%20adding%20a%20little%20section%20of%20three%20additional%20clauses.%0A%0A0:00:07.000,0:00:11.000%0AIdentify%20the%20verb%20types%20in%20these%20clauses."}')
